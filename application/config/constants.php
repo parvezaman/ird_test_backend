@@ -87,3 +87,5 @@ defined('EXIT__AUTO_MAX')      or define('EXIT__AUTO_MAX', 125); // highest auto
 
 #db table names
 defined('CATEGORY')      or define('CATEGORY', "category");
+defined('SUB_CATEGORY')      or define('SUB_CATEGORY', "sub_category");
+defined('DUA')      or define('DUA', "dua");
